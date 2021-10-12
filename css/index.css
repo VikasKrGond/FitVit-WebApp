@@ -1,0 +1,15 @@
+.headabt{
+    margin: 25px;
+    padding: 10px;
+    display: flex;
+
+}
+.firsthead{
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.card{
+    border-radius: 50px;
+}
